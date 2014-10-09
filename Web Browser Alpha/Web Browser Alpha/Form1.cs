@@ -31,5 +31,23 @@ namespace Web_Browser_Alpha
         {
 
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            webBrowser1.Navigate(textBox1.Text);
+        }
+
+        private void textBox1_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+        // deze fucntie maakt het gebruik van enter mogelijk
+        private void textBox1_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            if( e.KeyChar == (char)ConsoleKey.Enter )
+               {
+                   webBrowser1.Navigate(textBox1.Text);
+               }
+        }
     }
 }
