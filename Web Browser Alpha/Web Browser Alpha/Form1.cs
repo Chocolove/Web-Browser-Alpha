@@ -35,6 +35,8 @@ namespace Web_Browser_Alpha
         private void button1_Click(object sender, EventArgs e)
         {
             webBrowser1.Navigate(textBox1.Text);
+            button1.Enabled = false;
+            textBox1.Enabled = false;
         }
 
         private void textBox1_TextChanged(object sender, EventArgs e)
@@ -47,7 +49,15 @@ namespace Web_Browser_Alpha
             if( e.KeyChar == (char)ConsoleKey.Enter )
                {
                    webBrowser1.Navigate(textBox1.Text);
+                   button1.Enabled = false;
+                   textBox1.Enabled = false;
                }
+        }
+
+        private void webBrowser1_DocumentCompleted(object sender, WebBrowserDocumentCompletedEventArgs e)
+        {
+            button1.Enabled = true;
+            textBox1.Enabled = true;
         }
     }
 }

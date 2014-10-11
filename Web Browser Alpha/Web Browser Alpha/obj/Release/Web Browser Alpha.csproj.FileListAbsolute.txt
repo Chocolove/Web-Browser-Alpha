@@ -1,0 +1,8 @@
+C:\Users\roy\Documents\GitHub\Web-Browser-Alpha\Web Browser Alpha\Web Browser Alpha\bin\Release\Web Browser Alpha.exe.config
+C:\Users\roy\Documents\GitHub\Web-Browser-Alpha\Web Browser Alpha\Web Browser Alpha\bin\Release\Web Browser Alpha.exe
+C:\Users\roy\Documents\GitHub\Web-Browser-Alpha\Web Browser Alpha\Web Browser Alpha\bin\Release\Web Browser Alpha.pdb
+C:\Users\roy\Documents\GitHub\Web-Browser-Alpha\Web Browser Alpha\Web Browser Alpha\obj\Release\Web_Browser_Alpha.Form1.resources
+C:\Users\roy\Documents\GitHub\Web-Browser-Alpha\Web Browser Alpha\Web Browser Alpha\obj\Release\Web_Browser_Alpha.Properties.Resources.resources
+C:\Users\roy\Documents\GitHub\Web-Browser-Alpha\Web Browser Alpha\Web Browser Alpha\obj\Release\Web Browser Alpha.csproj.GenerateResource.Cache
+C:\Users\roy\Documents\GitHub\Web-Browser-Alpha\Web Browser Alpha\Web Browser Alpha\obj\Release\Web Browser Alpha.exe
+C:\Users\roy\Documents\GitHub\Web-Browser-Alpha\Web Browser Alpha\Web Browser Alpha\obj\Release\Web Browser Alpha.pdb
